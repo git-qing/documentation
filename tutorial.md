@@ -39,7 +39,7 @@ make sure you are under the `demo/` directory
 ls -l
 ```
 NOTE:   
-a. Comment out the "10G" line first if you want to test a file of 10G in size  
+a. Uncomment the "10G" line first if you want to test a file of 10G in size  
 b. This step may take a few minutes. 
 
 
